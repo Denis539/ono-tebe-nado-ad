@@ -8,15 +8,15 @@ body{
   align-items: center;
   margin: 92px 50px 96px;
 }
-.header__links-list{
+.header__links-list{ 
   display: flex;
   justify-self: start;
   gap: 34px;
-  margin: 0; 
+  margin: 0;
   padding: 0;
   list-style: circle;
 }
-.header__links-list-item{
+.header__links-list-item{ 
   text-decoration: underline;
 }
 .header__links-list-item_no-bullit{
@@ -29,7 +29,7 @@ body{
 }
 .header__address{
   justify-self: end;
-  max-width: 240px; 
+  max-width: 240px;
 }
 .address{
   font-style: normal;
@@ -221,7 +221,7 @@ body{
   justify-self: start;
 }
 .footer__menu{
-  width: 200px; 
+  width: 200px;
 }
 .footer__menu-list{
   display: flex;
